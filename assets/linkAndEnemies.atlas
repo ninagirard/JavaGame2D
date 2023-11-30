@@ -1,0 +1,11 @@
+linkAndEnemies.png
+size:2048,2048
+repeat:none
+link
+bounds:2,1016,1024,1024
+men
+bounds:2,2,520,482
+ninja
+bounds:2,486,680,528
+pinkFish
+bounds:1028,1779,768,261
